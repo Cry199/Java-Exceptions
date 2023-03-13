@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author caual
+ *
+ */
+module Exceptions {
+}
